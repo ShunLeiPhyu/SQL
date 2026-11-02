@@ -15,3 +15,7 @@ SQL scripts showing how to build databases and query them in **MySQL**.
 
 ## How to run
 Open a script in MySQL Workbench (MySQL 8.0+) and run it.
+
+---
+
+👩‍💻 **Author:** [Shun Lei Phyu](https://github.com/ShunLeiPhyu)
